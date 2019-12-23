@@ -1,0 +1,1 @@
+# spin-plugin-manifest-public
